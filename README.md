@@ -6,7 +6,7 @@
 |   Modules  | Topics                                                    |
 |-----------|:------------------------------------------------------------------------------------------------------------- |
 | 01    |[Introduction](./readMe.md)                                                             |
-| 02    |[Data Types](./02_module_Data_types/02_module_data_types.md)                                                |
+| 02    |[Data Types](/Module_02/02_module_Data_types.md)                                                |
 | 03    |[Booleans, Operators, Date](./03_module_Booleans_operators_date/03_booleans_operators_date.md)   |
 | 04    |[Conditionals](./04_module_Conditionals/04_module_conditionals.md)                                             |
 | 05    |[Arrays](./05_module_Arrays/05_module_arrays.md)                                                      |
