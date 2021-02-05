@@ -9,7 +9,7 @@
   </div>
 <br>
 
-[<< Module 01](../README.md)| [Module 03 >>](../03_module_Booleans_operators_date/03_booleans_operators_date.md)
+[<< Module 01](../README.md)| [Module 03 >>](../Module_03/03_booleans_operators_date.md)
 <br>
 
 - [Module 02](#-module-02)
@@ -33,7 +33,7 @@
       - [String to Int](#string-to-int)
       - [String to Float](#string-to-float)
       - [Float to Int](#float-to-int)
-  - [Day 2: Exercises](#-day-2-exercises)
+  - [Module 2: Exercises](#-Module-2-exercises)
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
     - [Exercises: Level 3](#exercises-level-3)
@@ -345,11 +345,11 @@ In JavaScript and other programming languages \ followed by some characters is a
 ```js
 console.log('I hope everyone is enjoying this challenge.
 \n Do you ?') // line break
-console.log('Days\tTopics\tExercises')
-console.log('Day 1\t3\t5')
-console.log('Day 2\t3\t5')
-console.log('Day 3\t3\t5')
-console.log('Day 4\t3\t5')
+console.log('Modules\tTopics\tExercises')
+console.log('Module 1\t3\t5')
+console.log('Module 2\t3\t5')
+console.log('Module 3\t3\t5')
+console.log('Module 4\t3\t5')
 console.log('This is a backslash  symbol (\\)') // To write a backslash
 console.log('In every programming language it starts with \"Hello, World!\"')
 console.log("In every programming language it starts with \'Hello, World!\'")
@@ -361,11 +361,11 @@ Output in console:
 ```sh
 I hope everyone is enjoying this challenge.
 Do you ?
-Days  Topics  Exercises
-Day 1 3 5
-Day 2 3 5
-Day 3 3 5
-Day 4 3 5
+Modules  Topics  Exercises
+Module 1 3 5
+Module 2 3 5
+Module 3 3 5
+Module 4 3 5
 This is a backslash  symbol (\)
 In every programming language it starts with "Hello, World!"
 In every programming language it starts with 'Hello, World!'
@@ -754,7 +754,7 @@ console.log(string.match(pattern))   // ["love", "love", "love"]
 Let us extract numbers from text using a regular expression. This is not the regular expression section, do not panic! We will cover regular expressions later on.
 
 ```js
-let txt = 'In 2018, I ran 30 Days of Python. Now, in 2021 I am super exited to start a new challenge'
+let txt = 'In 2018, I ran 30 Modules of Python. Now, in 2021 I am super exited to start a new challenge'
 let regEx = /\d+/
 
 // d with escape character means d not a normal d instead acts a digit
@@ -897,7 +897,7 @@ console.log(numInt) // 9
 4. Change all the string characters to capital letters using __toUpperCase()__ method
 5. Change all the string characters to lowercase letters using __toLowerCase()__ method
 6. Cut (slice) out the first word of the string using __substr()__ or __substring()__ method
-7. Slice out the phrase *Days Of JavaScript* from *Javascript-forever*.
+7. Slice out the phrase *Modules Of JavaScript* from *Javascript-forever*.
 8. Check if the string contains a word __Script__ using __includes()__ method
 9. Split the __string__ into an __array__ using __split()__ method
 10. Split the string Javascript-forever at the space using __split()__ method
@@ -960,9 +960,9 @@ console.log(numInt) // 9
 3. Clean the following text and find the most frequent word (hint, use replace and regular expressions).
 
     ```js
-        const sentence = '%I $am@% a %tea@cher%, &and& I lo%#ve %te@a@ching%;. The@re $is no@th@ing; &as& mo@re rewarding as educa@ting &and& @emp%o@weri@ng peo@ple. ;I found tea@ching m%o@re interesting tha@n any ot#her %jo@bs. %Do@es thi%s mo@tiv#ate yo@u to be a tea@cher!? %Th#is 30#Days&OfJavaScript &is al@so $the $resu@lt of &love& of tea&ching'
+        const sentence = '%I $am@% a %tea@cher%, &and& I lo%#ve %te@a@ching%;. The@re $is no@th@ing; &as& mo@re rewarding as educa@ting &and& @emp%o@weri@ng peo@ple. ;I found tea@ching m%o@re interesting tha@n any ot#her %jo@bs. %Do@es thi%s mo@tiv#ate yo@u to be a tea@cher!? %Th#is 30#Modules&OfJavaScript &is al@so $the $resu@lt of &love& of tea&ching'
     ```
 
 4. Calculate the total annual income of the person by extracting the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 
-[<< Module 1](/README.md) | [Module 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
+[<< Module 1](/README.md) | [Module 3 >>](./Module_03/)
