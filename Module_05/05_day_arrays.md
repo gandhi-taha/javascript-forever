@@ -754,6 +754,6 @@ const webTechs = [
     - Find the range of the ages(max minus min)
     - Compare the value of (min - average) and (max - average), use *abs()* method
 1.Slice the first ten countries from the 
-[countries array](https://github.com/gandhi-taha/javasript-forever/tree/master/list/countries.js)
-1. Find the middle country(ies) in the [countries array](https://github.com/gandhi-taha/javasript-forever/tree/master/list/countries.js)
+[countries array](https://github.com/gandhi-taha/javascript-forever/blob/master/list/countries.js)
+1. Find the middle country(ies) in the [countries array](https://github.com/gandhi-taha/javascript-forever/blob/master/list/countries.js)
 2. Divide the countries array into two equal arrays if it is even.  If countries array is not even , one more country for the first half.

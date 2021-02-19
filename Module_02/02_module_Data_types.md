@@ -960,6 +960,6 @@ console.log(numInt) // 9
         const sentence = '%I $am@% a %tea@cher%, &and& I lo%#ve %te@a@ching%;. The@re $is no@th@ing; &as& mo@re rewarding as educa@ting &and& @emp%o@weri@ng peo@ple. ;I found tea@ching m%o@re interesting tha@n any ot#her %jo@bs. %Do@es thi%s mo@tiv#ate yo@u to be a tea@cher!? %Th#is 30#Modules&OfJavaScript &is al@so $the $resu@lt of &love& of tea&ching'
     ```
 
-4. Calculate the total annual income of the person by extracting the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
+4. Calculate the total annual income of the person by extracting the numbers from the following text. 'He earns 2000 euro from salary per month, 1000 euro annual bonus, 1500 euro online courses per month.'
 
 [<< Module 01](/README.md) | [Module 03 >>](/Module_03/03_booleans_operators_date.md)
