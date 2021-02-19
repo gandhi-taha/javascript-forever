@@ -58,22 +58,22 @@
   </div>
 <br>
 
-## Module 1
-- [JavaScript Forever](#Javascript-Forever)
+- [Module 01](#-module-01)
+  - [JavaScript Forever](#Javascript-Forever)
   - [Introduction](#introduction)
   - [Requirements](#requirements)
   - [Setup](#setup)
-    - [Install Node.js](#install-nodejs)
-    - [Browser](#browser)
-    - [Installing Google Chrome](#installing-google-chrome)
-    - [Opening Google Chrome Console](#opening-google-chrome-console)
+  - [Install Node.js](#install-nodejs)
+  - [Browser](#browser)
+  - [Installing Google Chrome](#installing-google-chrome)
+  - [Opening Google Chrome Console](#opening-google-chrome-console)
     - [Writing Code on Browser Console](#writing-code-on-browser-console)
         - [Console.log](#consolelog)
         - [Console.log with Multiple Arguments](#consolelog-with-multiple-arguments)
         - [Comments](#comments)
         - [Syntax](#syntax)
       - [Arithmetics](#arithmetics)
-    - [Code Editor](#code-editor)
+  - [Code Editor](#code-editor)
       - [Installing Visual Studio Code](#installing-visual-studio-code)
       - [How to Use Visual Studio Code](#how-to-use-visual-studio-code)
   - [Adding JavaScript to a Web Page](#adding-javascript-to-a-web-page)
@@ -90,7 +90,7 @@
   - [Checking Data Types](#checking-data-types)
   - [Comments Again](#comments-again)
   - [Variables](#variables)
-- [Practice](#practice)
+  - [Practice](#practice)
 ## Hello and Welcome Guys
 
 **Cheers** for opting to this course _Javascrip Forever_.  you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming with challenges to solve at end.

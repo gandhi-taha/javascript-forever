@@ -615,4 +615,4 @@ console.log(`${date}/${month}/${year} ${hours}:${minutes}`) // 6/2/2021 0:47
 1. Create a human readable time format using the Date time object. The hour and the minute should be all the time two digits(7 hours should be 07 and 5 minutes should be 05 )
 1. YYY-MM-DD HH:mm eg. 20121-02-12 07:05
 
-[<< Day 2](../Module_02/02_module_Data_types.md) | [Day 4 >>](../Module_04/04_conditionals.md)
+[<< Module 02](../Module_02/02_module_Data_types.md) | [Module 04 >>](../Module_04/04_conditionals.md)
