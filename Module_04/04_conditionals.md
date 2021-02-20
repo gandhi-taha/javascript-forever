@@ -367,4 +367,4 @@ isRaining
 
 Congrats Guys!!!
 
-[<< Module 03](../Module_03/03_booleans_operators_date.md) | [Module 05 >>](../Module_05/05_day_arrays.md)
+[<< Module 03](../Module_03/03_booleans_operators_date.md) | [Module 05 >>](../Module_05/05_arrays.md)
