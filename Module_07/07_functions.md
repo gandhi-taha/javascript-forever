@@ -497,9 +497,9 @@ console.log('Weight of an object in Newton: ', weightOfObject(100, 1.62)) // gra
 
 It will be covered in other module.
 
-You are a rising star, now you knew function . Now, you are super charged with the power of functions. You have just completed day 7 challenges and you are 7 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+You are a rising star, now you knew function . Now, you are super charged with the power of functions. You have just completed 7 Modules and challenges now you are 7 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises
+## Exercises
 
 ### Exercises: Level 1
 

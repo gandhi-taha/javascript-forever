@@ -237,7 +237,7 @@ for(let i = 0; i <= 5; i++){
 
 // 0 1 2 4 5
 ```
-You are so brave, you made it to this far. Now, you have gained the power to automate repetitive and tedious tasks. You have just completed day 6 challenges and you are 6 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+You are so brave, you made it to this far. Now, you have gained the power to automate repetitive and tedious tasks. You have just completed 6 Modules and challenges now you are 6 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
 ##  Exercises
 

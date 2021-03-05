@@ -25,7 +25,7 @@
       - [Getting object values using Object.values()](#getting-object-values-using-objectvalues)
       - [Getting object keys and values using Object.entries()](#getting-object-keys-and-values-using-objectentries)
       - [Checking properties using hasOwnProperty()](#checking-properties-using-hasownproperty)
-  - [💻 Exercises](#-exercises)
+  - [Exercises](#-exercises)
     - [Exercises: Level 1](#exercises-level-1)
     - [Exercises: Level 2](#exercises-level-2)
     - [Exercises: Level 3](#exercises-level-3)
@@ -162,7 +162,7 @@ for(let i = 0; i < 3; i++){
 The scope *let* and *const* is the same. The difference is only reassigning. We can not change or reassign the value of const variable. I would strongly suggest you to use *let* and *const*, by using *let* and *const* you will writ clean code and avoid hard to debug mistakes. As a rule of thumb, you can use *let* for any value which change, *const* for any constant value, and for array, object, arrow function and function expression.
 
 
-## 📔 Object
+## Object
 
 Everything can be an object and objects do have properties and properties have values, so an object is a key value pair. The order of the key is not reserved, or there is no order.
 To create an object literal, we use two curly brackets.
@@ -410,10 +410,10 @@ console.log(copyPerson.hasOwnProperty('name'))
 console.log(copyPerson.hasOwnProperty('score'))
 ```
 
-You are astonishing. Now, you are super charged with the power of objects. You have just completed day 8 challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+You are astonishing. Now, you are super charged with the power of objects. You have just completed 8 Modules and challenges and you are 8 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
 
-## 💻 Exercises
+## Exercises
 
 ### Exercises: Level 1
 

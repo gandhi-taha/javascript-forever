@@ -403,7 +403,7 @@ console.log(result)
 ```
 
 ```sh
-Asabeneh
+Taha
 ```
 
 ```js
@@ -519,3 +519,33 @@ const users = [
   { name: 'Madhuri', age: 100 },
   { name: 'Shiv', age: 22 },
 ]
+
+users.sort((a, b) => {
+  if (a.age < b.age) return -1
+  if (a.age > b.age) return 1
+  return 0
+})
+console.log(users) // sorted ascending
+//[{…}, {…}, {…}, {…}]
+```
+You are doing great.Never give up because great things take time. You have just completed day 9 challenges and you are 9 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+
+##  Exercises
+
+### Exercises: Level 1
+
+```js
+const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'IceLand']
+const names = ['Taha', 'Pavan', 'Madhuri', 'Shiv']
+const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+const products = [
+  { product: 'banana', price: 3 },
+  { product: 'mango', price: 6 },
+  { product: 'potato', price: ' ' },
+  { product: 'avocado', price: 8 },
+  { product: 'coffee', price: 10 },
+  { product: 'tea', price: '' },
+]
+```
+You are doing great.Never give up because great things take time. You have just completed Modules 9 their challenges and you are 9 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
+
